@@ -1,0 +1,17 @@
+.parent {
+  margin: 44px 150px 48px 185px;
+  /* background-color: rgb(222, 223, 214); */
+
+}
+
+.post_parent {
+    margin: 20px 9px 26px 52px;
+    background-color: rgb(225, 225, 225);
+}
+
+.postbody{
+    margin: 35px 34px 0 27px;
+    background-color: rgb(207, 207, 207);
+
+
+}

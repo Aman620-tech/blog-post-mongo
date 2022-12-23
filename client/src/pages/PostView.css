@@ -1,0 +1,28 @@
+.blog {
+  margin: 20px 280px 0 328px;
+}
+
+.comment {
+  margin: 2%;
+border: 2px solid #dee2e2;
+background-color: aliceblue;
+padding: 2%;
+}
+.comment1 {
+  margin: 2%;
+border: 2px solid #dee2e2;
+background-color: aliceblue;
+padding: 2%;
+}
+.comment2 {
+    margin: 2%;
+  border: 2px solid rgb(224 237 252);
+  background-color: rgb(234 240 246);
+  padding: 2%;
+}
+.comment3 {
+    margin: 2%;
+  border: 2px solid rgb(226 224 243);
+  background-color: rgb(227 232 237);
+  padding: 2%;
+}
